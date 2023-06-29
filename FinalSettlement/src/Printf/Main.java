@@ -22,12 +22,5 @@ public class Main {
             }
             System.out.println();
         }
-        fun("a","b","c","d");
-        String[] s = {"s","e","h"};
-        fun(s);
-        fun(new String[]{"a","b"});
-    }
-    public static void fun(String...s){
-        System.out.println("XD");
     }
 }
